@@ -1,6 +1,8 @@
 # Crosshair-java-project-swing
 External crosshair overlay which will help the gamer to do better aim.
 
+In the update file color of the circle can chnage with HX color code and an extra circle add for better aim 🧿
+
 NOTE : it will work only when video mode is in Windows OR WindowsFullscreen/boarderlessWindows
 
 
